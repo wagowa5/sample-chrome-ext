@@ -1,0 +1,10 @@
+{
+  "name": "My Sample Extension",
+  "version": "1.0",
+  "description": "動作確認用のサンプルChrome拡張です。",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
+
